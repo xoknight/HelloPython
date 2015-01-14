@@ -12,3 +12,10 @@ print total
 days = ['Monday', 'Tuesday', 'Wednesday',
         'Thursday', 'Friday']
 print days[1] #python数组引用
+import sys; x = 'foo'; sys.stdout.write(x + '\n')
+s = 'ilovepython'
+print s[1:5]
+
+
+
+raw_input ("\n\n Press any key to continue!")

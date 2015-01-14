@@ -1,0 +1,4 @@
+Python Learing note
+
+2015-01-14
+安装了python环境，了解基本语法
