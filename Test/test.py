@@ -15,6 +15,12 @@ print days[1] #python数组引用
 import sys; x = 'foo'; sys.stdout.write(x + '\n')
 s = 'ilovepython'
 print s[1:5]
+count = 0
+while count < 5:
+   print count, " is  less than 5"
+   count ++
+else:
+   print count, " is not less than 5"
 
 
 
